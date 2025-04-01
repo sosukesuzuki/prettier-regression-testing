@@ -1,33 +1,33 @@
 {
   "babel": {
-    "commit": "134aa1723c6aa01a42713e379142088b30c6cc0d",
+    "commit": "0f95b748a9a5f90c3b23d4d72299684991049243",
     "glob": "./{packages,codemods,eslint}/**/*.{js,ts}",
     "ignoreFile": ".eslintignore",
     "url": "https://github.com/babel/babel.git"
   },
   "eslint-plugin-vue": {
-    "commit": "2aa9ac45a4ea66c293b3e7cbfd6ad076afa39bb5",
+    "commit": "41e0192c6bbc084b6596854c18e3a29197e02b37",
     "glob": "./**/*.js",
     "url": "https://github.com/vuejs/eslint-plugin-vue.git"
   },
   "excalidraw": {
-    "commit": "3ddcc48e4c192f525930e503b3e9214627f0043d",
+    "commit": "7c58477382883026b65ca770f31b87ff153654f8",
     "glob": "./**/*.{css,scss,json,md,html,yml,ts,tsx,js}",
     "ignoreFile": ".eslintignore",
     "url": "https://github.com/excalidraw/excalidraw.git"
   },
   "content": {
-    "commit": "c5dd9c3b9d503a56dc04b6b8f88e89194dc82d7f",
+    "commit": "5ae01a458eced9772d628f91d035ada423cd073c",
     "glob": "./**/*.md",
     "url": "https://github.com/mdn/content.git"
   },
   "prettier": {
-    "commit": "2bd131fbd29e94e989e64904f1a628877d38ae3d",
+    "commit": "0e1828c5996b26acf99aaf537c3817230a97c478",
     "glob": ".",
     "url": "https://github.com/prettier/prettier.git"
   },
   "react-admin": {
-    "commit": "fbf280286c715d6ef0c38d7111eab249aa929dc1",
+    "commit": "52eefabec34ae7e7bef8f733cd156d1d664d14c4",
     "glob": [
       "packages/*/src/**/*.{js,json,ts,tsx,css,md}",
       "examples/*/src/**/*.{js,ts,json,tsx,css,md}",
@@ -36,13 +36,15 @@
     "url": "https://github.com/marmelab/react-admin.git"
   },
   "typescript-eslint": {
-    "commit": "4bf2d7360eaf74c9ef87b196ff4c459b8f50800b",
+    "commit": "3dd1835e334703cd1914917bea175f1ec84c4efc",
     "glob": "./**/*.{ts,js,json,md}",
-    "ignore": ["**/fixtures/**/*"],
+    "ignore": [
+      "**/fixtures/**/*"
+    ],
     "url": "https://github.com/typescript-eslint/typescript-eslint.git"
   },
   "vega-lite": {
-    "commit": "c9659206602eda1d894702a2a1f5b526b9832f9f",
+    "commit": "7b0c8b84d47a46ce0eb96d9a042602bc2809e15e",
     "glob": "./**/*.ts",
     "ignoreFile": ".eslintignore",
     "url": "https://github.com/vega/vega-lite.git"
